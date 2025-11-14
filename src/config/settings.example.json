@@ -1,0 +1,5 @@
+{
+  "request_delay_ms": 500,
+  "max_results": 50,
+  "output_format": "json"
+}
